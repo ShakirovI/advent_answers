@@ -1,3 +1,3 @@
 **https://adventofcode.com/**
 тут ответы на ивент. 
-/answer/{id} - получить ответ
+/answer/{id} - получить ответ 
